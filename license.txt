@@ -1,0 +1,5 @@
+Author : Emily Tench, November 21, 2016
+
+This is to say that whatever form of GPL that is most approriate to allow for reasonable open collaboration on this work is intended to be applied to it. It is presently understood that prints and other physical distributions of any portion of this work can be eventually sold within the confines of the license agreement. This is not intended to permit trivial modifications of the work, to then sell another true-collaborator's work for simple-proifit.
+
+If a form of the GPL does not make these freedoms and restrictions possible, another license will eventually be added to this work to supplement and replace the original guess that a form of GPL may fulfill the purpose.
