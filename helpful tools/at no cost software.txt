@@ -1,0 +1,8 @@
+git
+inkscape
+web-browsers
+text editors
+	vi
+	gedit
+	notepad.exe
+	atom
